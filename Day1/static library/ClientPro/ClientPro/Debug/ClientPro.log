@@ -1,0 +1,10 @@
+﻿Build started 24-09-2019 18:08:16.
+     1>Project "D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\ClientPro\ClientPro.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\Debug\ClientPro.exe" /INCREMENTAL /NOLOGO D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\DevPro.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\Debug\ClientPro.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\Debug\ClientPro.lib" /MACHINE:X86 Debug\Source.obj
+         ClientPro.vcxproj -> D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\Debug\ClientPro.exe
+     1>Done Building Project "D:\SujitX\VITA_DATABASE\CPP\Day1\ClientPro\ClientPro\ClientPro.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
